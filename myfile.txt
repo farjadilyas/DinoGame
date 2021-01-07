@@ -1,0 +1,13 @@
+	INSTRUCTIONS:
+
+
+			 WELCOME TO OUR DINO GAME!
+
+		     JUMP AND DUCK TO AVOID OBSTACLES
+
+	 PRESS [SPACE] OR [UP ARROW] TO JUMP, AND [DOWN ARROW] TO DUCK
+
+		      YOU HAVE 5 LIVES. HAPPY HOPPING!
+
+
+		--[ Press any key to return to main menu ]--
